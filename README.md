@@ -1,0 +1,2 @@
+# gastosDist
+Gastos distribuidos
